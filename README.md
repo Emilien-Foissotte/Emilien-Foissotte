@@ -8,7 +8,7 @@
 
 [emilien-foissotte.github.io/me/](https://emilien-foissotte.github.io/me?utm_campaign=Github_profile)
 
-I'm a Machine Learning Engineer @ [Revolve](https://revolve.team/), working on ML applications and Data related topics.
+I'm a  Data & Machine Learning Engineer @ [Revolve](https://revolve.team/), working on ML applications and Data related topics.
 
-- I'm currently working on Great Expectations, FastAPI, Celery and AWS Cloud for ML Engineering ⚙️
+- I'm currently working on dbt, BedRock, Sagemaker and AWS Cloud for Data & ML Engineering ⚙️
 - Have a look at my blog [here](https://emilien-foissotte.github.io/posts?utm_campaign=Github_profile) 🎙️
