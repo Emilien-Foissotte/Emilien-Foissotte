@@ -19,4 +19,9 @@ I'm a  Data & Machine Learning Engineer @ [Revolve](https://revolve.team/), wor
 - Have a look at my blog [here](https://emilien-foissotte.github.io/posts?utm_campaign=Github_profile) 🎙️
 
 <!-- BLOG-POST-LIST:START -->
+- [Going Offline Efficiently](https://emilien-foissotte.github.io/posts/2025/01/going-offline-efficiently/)
+- [Saving Money, End to End DataEng dashboard showcase](https://emilien-foissotte.github.io/posts/2024/05/streamlit-gas-stations/)
+- [Optimization, 1984 and Genetics Algorithms](https://emilien-foissotte.github.io/posts/2023/10/genetic-algorithm/)
+- [Lightening fast, Parquet to CSV](https://emilien-foissotte.github.io/posts/2023/08/fast-convert/)
+- [Personal Drive](https://emilien-foissotte.github.io/posts/2023/07/personal-drive/)
 <!-- BLOG-POST-LIST:END -->
