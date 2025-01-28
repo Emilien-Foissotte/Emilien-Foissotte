@@ -10,5 +10,13 @@
 
 I'm a  Data & Machine Learning Engineer @ [Revolve](https://revolve.team/), working on ML applications and Data related topics.
 
+## Learning 📚
+
 - I'm currently working on dbt, BedRock, Sagemaker and AWS Cloud for Data & ML Engineering ⚙️
+
+## Latest blog posts 📑
+
 - Have a look at my blog [here](https://emilien-foissotte.github.io/posts?utm_campaign=Github_profile) 🎙️
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
