@@ -43,6 +43,6 @@ I'm a Data & Machine Learning Engineer @ [Revolve](https://revolve.team/), work
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Emilien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emilien-foissotte&show_icons=true&theme=radical) />
+<img align="left" alt="Emilien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emilien-foissotte&show_icons=true&theme=radical" />
 
 </details>
