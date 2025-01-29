@@ -1,4 +1,4 @@
-### Hi there <a href="https://emilien-foissotte.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Hi there 👋, I'm Emilien
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output/github-contribution-grid-snake-dark.svg">
@@ -6,11 +6,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output/github-contribution-grid-snake.svg">
 </picture>
 
-I'm Emilien 👋 Here is the place where I share some of my ramblings about work, tech and fun 🔭
+Here is the place where I share some of my ramblings about work, tech and fun 🔭
 
-[emilien-foissotte.github.io/me/](https://emilien-foissotte.github.io/me?utm_campaign=Github_profile)
-
-I'm a Data & Machine Learning Engineer @ [Revolve](https://revolve.team/), working on ML applications and Data related topics.
+I'm a Data & Machine Learning Engineer @ [Devoteam A Cloud](https://acloud.devoteam.com/), working on ML applications and Data related topics.
 
 ### Connect with me:
 
@@ -44,7 +42,5 @@ I'm a Data & Machine Learning Engineer @ [Revolve](https://revolve.team/), work
   <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Emilien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emilien-foissotte&show_icons=true&theme=transparent&rank_icon=github" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilien-foissotte&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
