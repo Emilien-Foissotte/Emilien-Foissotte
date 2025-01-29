@@ -12,8 +12,8 @@ I'm a Data & Machine Learning Engineer @ [Devoteam A Cloud](https://acloud.devo
 
 📧 &nbsp;**Connect with me**
 
-[![website](./img/globe-light.svg)](https://emilien-foissotte.github.io/me#gh-light-mode-only?utm_campaign=Github_profile)
-[![website](./img/globe-dark.svg)](https://emilien-foissotte.github.io/me#gh-dark-mode-only?utm_campaign=Github_profile)
+[![website](./img/globe-light.svg)](https://emilien-foissotte.github.io/me?utm_campaign=Github_profile#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://emilien-foissotte.github.io/me?utm_campaign=Github_profile#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/emilien-foissotte44#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/emilien-foissotte44#gh-dark-mode-only)
