@@ -10,7 +10,7 @@ Here is the place where I share some of my ramblings about work, tech and fun �
 
 I'm a Data & Machine Learning Engineer @ [Devoteam A Cloud](https://acloud.devoteam.com/), working on ML applications and Data related topics.
 
-### Connect with me:
+📧 &nbsp;**Connect with me**
 
 [![website](./img/globe-light.svg)](https://emilien-foissotte.github.io/me#gh-light-mode-only?utm_campaign=Github_profile)
 [![website](./img/globe-dark.svg)](https://emilien-foissotte.github.io/me#gh-dark-mode-only?utm_campaign=Github_profile)
@@ -19,9 +19,7 @@ I'm a Data & Machine Learning Engineer @ [Devoteam A Cloud](https://acloud.devo
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/emilien-foissotte44#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-- I'm currently working on dbt, BedRock, Sagemaker and AWS Cloud for Data & ML Engineering ⚙️
-
-### Languages and Tools:
+I'm currently working on dbt, BedRock, Sagemaker and AWS Cloud for Data & ML Engineering ⚙️
 
 📕 &nbsp;**Latest Blog Posts**
 
