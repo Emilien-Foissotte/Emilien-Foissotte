@@ -10,6 +10,13 @@ Here is the place where I share some of my ramblings about work, tech and fun �
 
 I'm a Data & Machine Learning Engineer @ [Devoteam A Cloud](https://acloud.devoteam.com/), working on ML applications and Data related topics.
 
+<b>My open-source Streamlit projects:</b>
+  <ul> 
+    <li> <a href="https://github.com/emilien-foissotte/carbuoram">carburoam</a>: A Streamlit daily refreshed dashboard to track gas station prices . <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emilien-foissotte/carburoam?style=flat"> </li>
+    <li> <a href="https://github.com/Emilien-Foissotte/ml-genetics-algorithm-app">Genetics Algorithm educative showcase</a>: Streamlit dashboard to demonstrate and experiment ML with Genetics Algorithms . <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emilien-foissotte/ml-genetics-algorithm-app?style=flat"> </li>
+  </ul>
+  
+
 📧 &nbsp;**Connect with me**
 
 [![website](./img/globe-light.svg)](https://emilien-foissotte.github.io/me?utm_campaign=Github_profile#gh-light-mode-only)
