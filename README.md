@@ -12,7 +12,7 @@ I'm a Data & Machine Learning Engineer @ [Devoteam A Cloud](https://acloud.devo
 
 <b>My open-source projects:</b>
   <ul> 
-    <li> <a href="https://github.com/emilien-foissotte/carbuoram">carburoam</a>: A Streamlit daily refreshed dashboard to track gas station prices . <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emilien-foissotte/carburoam?style=flat"> </li>
+    <li> <a href="https://github.com/emilien-foissotte/carburaom">carburoam</a>: A Streamlit daily refreshed dashboard to track gas station prices . <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emilien-foissotte/carburoam?style=flat"> </li>
     <li> <a href="https://github.com/Emilien-Foissotte/ml-genetics-algorithm-app">Genetics Algorithm educative showcase</a>: Streamlit dashboard to demonstrate and experiment ML with Genetics Algorithms . <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emilien-foissotte/ml-genetics-algorithm-app?style=flat"> </li>
   </ul>
   
