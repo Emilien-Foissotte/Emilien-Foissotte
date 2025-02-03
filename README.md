@@ -11,11 +11,12 @@ Here is the place where I share some of my ramblings about work, tech and fun �
 I'm a Data & Machine Learning Engineer @ [Devoteam A Cloud](https://acloud.devoteam.com/), working on ML applications and Data related topics.
 
 <b>My open-source projects:</b>
+
   <ul> 
-    <li> <a href="https://github.com/emilien-foissotte/carburoam">carburoam</a>: A Streamlit daily refreshed dashboard to track gas station prices . <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emilien-foissotte/carburoam?style=flat"> </li>
-    <li> <a href="https://github.com/Emilien-Foissotte/ml-genetics-algorithm-app">Genetics Algorithm educative showcase</a>: Streamlit dashboard to demonstrate and experiment ML with Genetics Algorithms . <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emilien-foissotte/ml-genetics-algorithm-app?style=flat"> </li>
+    <li> <a href="https://github.com/emilien-foissotte/carburoam">carburoam</a>: A Streamlit daily refreshed dashboard to track gas station prices&nbsp;<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emilien-foissotte/carburoam?style=flat"> </li>
+    <li> <a href="https://github.com/Emilien-Foissotte/ml-genetics-algorithm-app">Genetics Algorithm educative showcase</a>: Streamlit dashboard to demonstrate and experiment ML with Genetics Algorithms&nbsp;<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emilien-foissotte/ml-genetics-algorithm-app?style=flat"> </li>
   </ul>
-  
+
 
 📧 &nbsp;**Connect with me**
 
@@ -31,6 +32,7 @@ I'm currently working on dbt, BedRock, Sagemaker and AWS Cloud for Data & ML Eng
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Going Offline Efficiently](https://emilien-foissotte.github.io/posts/2025/01/going-offline-efficiently/)
 - [Saving Money, End to End DataEng dashboard showcase](https://emilien-foissotte.github.io/posts/2024/05/streamlit-gas-stations/)
 - [Optimization, 1984 and Genetics Algorithms](https://emilien-foissotte.github.io/posts/2023/10/genetic-algorithm/)
