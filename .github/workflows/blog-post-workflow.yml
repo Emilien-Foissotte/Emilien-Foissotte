@@ -16,5 +16,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          template: "- [$title]($url?utm_campaign=Github_profile)$newline"
+          template: "$newline- [$title]($url?utm_campaign=Github_profile)$newline"
           feed_list: "https://emilien-foissotte.github.io/index.xml"
