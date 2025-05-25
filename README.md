@@ -36,7 +36,9 @@ I'm currently working on dbt, BedRock, Sagemaker and AWS Cloud for Data & ML Eng
 - [Saving Money, End to End DataEng dashboard showcase](https://emilien-foissotte.github.io/posts/2024/05/streamlit-gas-stations/?utm_campaign=Github_profile)
 - [Optimization, 1984 and Genetics Algorithms](https://emilien-foissotte.github.io/posts/2023/10/genetic-algorithm/?utm_campaign=Github_profile)
 - [Lightening fast, Parquet to CSV](https://emilien-foissotte.github.io/posts/2023/08/fast-convert/?utm_campaign=Github_profile)
-- [Personal Drive](https://emilien-foissotte.github.io/posts/2023/07/personal-drive/?utm_campaign=Github_profile)<!-- BLOG-POST-LIST:END -->
+- [Personal Drive](https://emilien-foissotte.github.io/posts/2023/07/personal-drive/?utm_campaign=Github_profile)
+<!-- BLOG-POST-LIST:END -->
+
 
 ➡️ &nbsp;[more blog posts...](https://emilien-foissotte.github.io/)
 
