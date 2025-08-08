@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Emilien
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output/github-contribution-grid-snake-dark-emilien.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output/github-contribution-grid-snake-emilien.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output/github-contribution-grid-snake-emilien.svg">
 </picture>
 
 Here is the place where I share some of my ramblings about work, tech and fun 🔭
@@ -14,7 +14,13 @@ I'm based in Nantes 🐘, France 🇫🇷
 
 Have a look at my dotfiles managed with [vcsh](https://github.com/RichiH/vcsh) here ➡️ &nbsp;[template](https://github.com/Emilien-Foissotte/vcsh_mr_template)
 
-<b>My open-source projects:</b>
+<b>I'm currently working on:</b>
+
+  <ul>
+    <li> <a href="https://github.com/emilien-foissotte/strands-agent-streamlit-terraform">strands-agent-streamlit-terraform</a>: An AWS Terraform stack to deploy an Agent behind a Streamlit chat using Strands SDK &nbsp; </li>
+  </ul>
+
+<b>My other open-source projects:</b>
 
   <ul>
     <li> <a href="https://github.com/emilien-foissotte/carburoam">carburoam</a>: A Streamlit daily refreshed dashboard to track gas station prices&nbsp;<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emilien-foissotte/carburoam?style=flat"> </li>
@@ -22,7 +28,7 @@ Have a look at my dotfiles managed with [vcsh](https://github.com/RichiH/vcsh) h
     <li> <a href="https://github.com/Emilien-Foissotte/ml-genetics-algorithm-app">Genetics Algorithm educative showcase</a>: Streamlit dashboard to demonstrate and experiment ML with Genetics Algorithms&nbsp;<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/emilien-foissotte/ml-genetics-algorithm-app?style=flat"> </li>
   </ul>
 
-<b>Open-source projects I ❤️ committing as a contributor:</b>
+<b>Open-source projects I ❤️ committing as a contributor in the past:</b>
 
   <ul>
     <li> <a href="https://github.com/carbonfact/lea">lea</a>: A minimalist dbt-like SQL orchestrator, fueled by DuckDB or BigQuery engine&nbsp;<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/carbonfact/lea?style=flat"> </li>
