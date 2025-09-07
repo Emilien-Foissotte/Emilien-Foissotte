@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Emilien
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output/github-contribution-grid-snake-dark-emilien.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output/github-contribution-grid-snake-emilien.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output/github-contribution-grid-snake-emilien.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output-emilien/github-contribution-grid-snake-dark-emilien.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output-emilien/github-contribution-grid-snake-emilien.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emilien-foissotte/emilien-foissotte/output-emilien/github-contribution-grid-snake-emilien.svg">
 </picture>
 
 Here is the place where I share some of my ramblings about work, tech and fun 🔭
@@ -49,6 +49,7 @@ I'm currently working on dbt, BedRock, Sagemaker and AWS Cloud for Data & ML Eng
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Going Offline Efficiently](https://emilien-foissotte.github.io/posts/2025/01/going-offline-efficiently/?utm_campaign=Github_profile)
 - [Saving Money, End to End DataEng dashboard showcase](https://emilien-foissotte.github.io/posts/2024/05/streamlit-gas-stations/?utm_campaign=Github_profile)
 - [Optimization, 1984 and Genetics Algorithms](https://emilien-foissotte.github.io/posts/2023/10/genetic-algorithm/?utm_campaign=Github_profile)
